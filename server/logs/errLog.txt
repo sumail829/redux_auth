@@ -1,0 +1,1 @@
+20241115	12:08:33	40f4f7c9-2ec4-4076-bd58-b50b3bb97a3e	Error: not allowed by CORS
