@@ -23,3 +23,11 @@
 20241115	20:49:31	185a1e77-b135-450d-9a06-26889c4e822a	POST	undefined	/students
 20241115	20:49:48	77b4146d-079f-4e98-8d56-81be4693db53	GET	undefined	/students
 20241115	20:53:27	000c8cd1-dc9e-4aa9-944d-c03d2b9fd41e	GET	undefined	/students
+20241115	22:11:27	a8227746-d2ba-4310-9c82-b7e117b69247	GET	undefined	/students
+20241115	22:11:53	bf946164-0c21-4c56-aed4-4117fd103d05	POST	undefined	/students
+20241115	22:13:41	58b42b8f-249f-43ee-a60c-151f17853713	PUT	undefined	/students
+20241115	22:14:25	b92e7b24-1198-4f00-9985-ad6fa25dd76b	DELETE	undefined	/students
+20241115	22:15:03	03df1df2-ae43-48fb-9344-ea861e562088	GET	undefined	/students/1
+20241115	22:16:05	07191663-d078-4573-be65-011dd4d8dd3b	GET	undefined	/students/1
+20241115	22:16:09	98e030e0-ddb6-4d09-8206-a00a71b43732	GET	undefined	/students/2
+20241115	22:17:37	fe3de1db-9228-4f18-9986-3d60f8a793b8	GET	undefined	/students/2
