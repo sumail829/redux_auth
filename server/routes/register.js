@@ -1,7 +1,7 @@
-// const express=require('express');
-// const router=express.Router();
-// const registerControllers=require('../controllers/registerControllers');
+const express=require('express');
+const router=express.Router();
+const registerControllers=require('../controllers/registerControllers');
 
-// router.post('/',registerControllers.handleNewUser);
+router.post('/',registerControllers.handleNewUser);
 
-// module.exports=router;
+module.exports=router;

@@ -1,5 +1,5 @@
 const userDB={
-    users:require('../model/user.json'),
+    users:require('../model/users.json'),
     setUsers:function(data){this.users=data}
 }
 
@@ -21,7 +21,7 @@ const handleNewUser = async (req,res)=>{
             JSON.stringify(userDB.users)
         );
         console.log(userDB.users);
-        res.status(201).json({'success':`new user ${users} created!`})
+        res.status(201).json({'success':`new user ${user} created!`})
     }catch(err){
         res.status(500).json({'message':err.message});
     }
