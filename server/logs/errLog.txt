@@ -1,2 +1,21 @@
 20241115	12:08:33	40f4f7c9-2ec4-4076-bd58-b50b3bb97a3e	Error: not allowed by CORS
 20241115	23:29:31	8f3896cb-3cc4-4847-bc1d-a8a49ad91666	SyntaxError: Expected ',' or '}' after property value in JSON at position 29
+20241116	08:12:53	6d6080d4-3b3e-4d2a-86ad-2c95706ada5c	TypeError: res.sendstatus is not a function
+20241116	08:25:51	6d67683c-1672-431c-b11b-edbafcdafaff	ReferenceError: cookies is not defined
+20241116	08:27:27	a8e25a19-8290-491d-b1d8-7f0ebf0ba053	TypeError: res.sendstatus is not a function
+20241116	09:53:20	ebc94bf4-5137-4672-a897-6f894f640210	ReferenceError: origins is not defined
+20241116	09:53:53	07fd070a-ceaf-47c1-84ca-e9f220b196ec	ReferenceError: origins is not defined
+20241116	09:54:21	ab6ff783-e5f8-40c7-8552-7e912a2b7eeb	ReferenceError: origins is not defined
+20241116	09:56:05	c6a76678-603b-4402-b7dc-881e506b3e51	ReferenceError: origins is not defined
+20241116	10:27:14	d55e585f-cd4c-42d6-bee0-c3d6e5edbdeb	TypeError: authHeader.spilit is not a function
+20241116	10:27:33	8b6788b5-ac30-427e-9ec9-041f2b49268c	TypeError: authHeader.spilit is not a function
+20241116	11:43:28	59a449c2-3ddc-4251-9cde-8711157c8f00	TypeError: rolesArray.included is not a function
+20241116	14:19:51	4a8f63c0-657f-4ab8-a563-f6225a5fa5cf	Error: not allowed by CORS
+20241116	14:20:21	566cbaf6-1612-47b2-9aad-4897dd77303e	Error: not allowed by CORS
+20241116	14:25:07	b342ce23-bebb-48af-9009-bf7c4f62ce7c	Error: not allowed by CORS
+20241116	14:26:18	256b58ea-f7f2-4d6d-b373-4d59bf3da4e1	Error: not allowed by CORS
+20241116	14:27:12	d0be915d-b074-4626-8c6a-9e4c26b3cbfe	Error: not allowed by CORS
+20241116	14:27:59	11f5d4c2-1863-4045-a564-154a12135711	Error: not allowed by CORS
+20241116	14:33:58	c9bbf630-6e60-4e59-888c-6940cb6f0ec7	TypeError: res.headers is not a function
+20241116	14:34:17	57fd7f31-27e9-4c6e-9336-acbdbbeee0e4	TypeError: res.headers is not a function
+20241116	14:34:36	75faa19a-d542-4553-a4ca-1b5f2bb4e8ec	TypeError: res.headers is not a function
